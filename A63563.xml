@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the confession and execution of the fifteen prisoners at Tyburn, on Monday the 8th of this instant March, 1679/1680 [i.e. 1680] viz. Richard Hodgkinson, John Braford, Timothy Grady, Edward Grady, Randol Russel, William Harris, Joseph Phillips, Evan Wood, William West, William Woodward, William Carter, John Anderson, Frances Lewis, Dorothy Clark, Dorothy Hall, with a particular account of each persons fact for which they suffered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63563</idno>
+            <idno type="STC">Wing T2779</idno>
+            <idno type="STC">ESTC R215580</idno>
+            <idno type="EEBO-CITATION">13551128</idno>
+            <idno type="OCLC">ocm 13551128</idno>
+            <idno type="VID">100188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1558:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the confession and execution of the fifteen prisoners at Tyburn, on Monday the 8th of this instant March, 1679/1680 [i.e. 1680] viz. Richard Hodgkinson, John Braford, Timothy Grady, Edward Grady, Randol Russel, William Harris, Joseph Phillips, Evan Wood, William West, William Woodward, William Carter, John Anderson, Frances Lewis, Dorothy Clark, Dorothy Hall, with a particular account of each persons fact for which they suffered.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: stained with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:100188:1"/>
+            <pb n="1" facs="tcp:100188:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE TRUE NARRATIVE OF THE CONFESSION AND EXECUTON Of the fifteen Priſoners AT TYBURN, On</hi> Monday <hi>the 8th of this Inſtant</hi> March 1679.</head>
+            <head type="sub">Viz. Richard Hodgkinſon, John Braford, Timothy Grady, Edward Grady Randol Ruſſel, William Harris, Joſeph Phillips, Evan Wood, William Weſt, William Woodward, William Carter, John Anderſon, Frances Lewis, Dorothy Clark, Dorothy Hall, <hi>with a particular account of each perſons Fact for which they ſuffered.</hi>
+            </head>
+            <p>ALthough many and moſt frequent are the ſad Examples of theſe much to be deplored and miſerable Offendors, yet 'tis plainly ſeen that warnings are in vain, and no ways of ſufficient force for to deter them from purſuing of their own Deſtructions, as we ſhall in theſe Cataſtrophies as follow, demonſtrate to the World.</p>
+            <p>The firſt Example of offended Juſtice was upon one <hi>Robert Lewis,</hi> who was Arraigned for entring the Houſe of one <hi>Suſan<g ref="char:EOLhyphen"/>na, White,</hi> in the Ward of <hi>Billingsgate,</hi> and Felloniouſly bearing thence one ſilver Tankard vallued at four pounds, with ſeveral ſpoons, Porringers, and ſeveral Goods and Chattels to a conſi<g ref="char:EOLhyphen"/>derable vallue, but being purſued, he dropt them before he could be taken, notwithſtanding the Evidence being plain he was Con<g ref="char:EOLhyphen"/>victed of the Fellony, and having been an old Offendor, and once before burn'd in the hand, the Sentance of Death paſſed upon him, after which being mindful of the miſerable State wherein he was, he much lamented his untimely and moſt ſhame<g ref="char:EOLhyphen"/>ful End, deſiring Mercy for his many Tranſgreſſions and Offences and forgiveneſs of whomſoever he had offended, being not only penitent in <hi>Newgate,</hi> but continued ſo.</p>
+            <pb n="2" facs="tcp:100188:2"/>
+            <p>The next in this dread Scene of Woe, was <hi>Evans Wood,</hi> who was Arraigned for Fel<g ref="char:EOLhyphen"/>lony and Burglary, for that he broke open a Bookſellers ſhop in <hi>Holbourn,</hi> and taking thence ſeveral Books to the vallue of forty ſhillings or thereabouts, of which there being publick notice given, by exhibiting of Printed Bills, and he offering to expoſe them to ſail was apprehended. The Evidence affirmed, that he ſaw the Priſoner with a Window-cafe upon his Shoulders, that night the Burglary was committed, whereupon he was found guilty; and having been burnt in the hand bofore for Rob<g ref="char:EOLhyphen"/>bing Eſquire <hi>Hooker</hi> of about 1500 pounds, he received Sentance, after which, as ſenſible of his moſt wretched State, bewailing his ſtupidity, and much lamenting that no warning was ſufficient to reſtrain him from purſuing thoſe diſmal paths, that tend<g ref="char:EOLhyphen"/>ed both to mortal and immortal Death, unleſs the bleſſed Mercy of a Mediator inter<g ref="char:EOLhyphen"/>poſed.</p>
+            <p>
+               <hi>Randal Ruſſel</hi> a notorious Picklock, and Houſe-breaker, who having formerly been burnt in the hand for a Fellony, and being taken again upon ſuſpicion for breaking open Eſquire <hi>Trouts</hi> Chamber in <hi>New-Imu,</hi> was double fetter'd, and put into the Ma<g ref="char:EOLhyphen"/>ſters Chamber in <hi>Newgate,</hi> from whence he in the company of ſix more notorious of<g ref="char:EOLhyphen"/>fendors, eſcaped, by firſt filing off their Fetters, and then with Plough-coulters and other impliments, forcing the Stones and Iron Bars in the Wall, on the 22th of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> laſt, and the ſaid <hi>Ruſſel</hi> being retaken, was found Guilty of the Fellony, and re<g ref="char:EOLhyphen"/>ceived Sentance accordingly, and though he had been an old Offendor, (and there being taken about him when he was apprehended, no leſs than thirty falſe Keys and Pick<g ref="char:EOLhyphen"/>locks (yet Death the Gaſtly King of Terrors, ſo amazed his long exalted Spirit, that ſunk like Lead, and he bewailed his preſumptuous folly, that had brought a Ruine on his head, and cauſed him for to die an ignominious Death.</p>
+            <p>The next in order, were <hi>Joſeph Phillips, William Harris, John Anderſon,</hi> who were Arraigned for Robing Juſtice <hi>Northies</hi> Coach near Bow, and taking from his wife and Son, goods, and monies to the vallue of one hundred and odd pounds, a Scarf, the Gentlemans Cravat, ſeveral Rings, a Handkerchief, and about four or five ſhillings, in monies, the evidenee ſwore them to be the ſame Men, and thereupon they were caſt and Condemned, after whoſe Condemnations they were much dejected and in vain beging Mercy from the Court, deſiring Tranſportation, the which could not be grant<g ref="char:EOLhyphen"/>ed, ſo that during their reſPite in <hi>Newgate,</hi> all of them as it behoved dying Men, much lamented, though too late as to this World their unlawful Deſigns and Actions one of them being by Birth a <hi>Sweed.</hi>
+            </p>
+            <p>
+               <hi>Dorothy Clark,</hi> was alſo Arraigned for ſtealing a <hi>Campaign</hi> Coat from one Mr. <hi>Beacon</hi> in <hi>Eaſtcheaep,</hi> vallued at thirty five ſhillings; when ſhe came into the Shop ſhe pretend<g ref="char:EOLhyphen"/>ing to buy a Coat, conveyed away this for which ſhe was Indicted, whereupon being found Guilty and having been a notorious Shoplift, formerly burnt in the Hand, and ſeveral times in <hi>Newgate,</hi> ſhe was thought incorrigable, and therefore received the fame Sen<g ref="char:EOLhyphen"/>tance as the former, powring forth her Tears, at ſuch a laviſh Rate as gained Commi<g ref="char:EOLhyphen"/>ſeration from all the Spectators, deploring much her hard Fate, that had puſhed her forward to her own Deſtruction. In <hi>Newgate</hi> ſhe was very attentive to ſuch Godly Miniſters, and others who came to viſit her, <hi>&amp;c.</hi>
+            </p>
+            <p>The next in this diſmal Tragedy were <hi>Timothy Grady</hi> and <hi>Edward Grady</hi> two Foot<g ref="char:EOLhyphen"/>pads; who were arraigned for Fellony and Robbery, for ſetting upon, and Robbing one Mr. <hi>Holder</hi> and his Wife between <hi>Hays</hi> and <hi>Siuth-town.</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>xbridg</hi>-Road, between nine and ten of the clock in the Evening of what monies he had about him, being about forty ſhillings, as likewiſe rifflng his wife of her Ring and ſeveral other things, diſ<g ref="char:EOLhyphen"/>arming Mr. <hi>Holder,</hi> and after the taking away his Campaign Coat departed, vowing if he offered to follow or purſue them they would Murther him, but this being on the Saturday, on the Monday following ſeveral Warrants being iſhued out for the appre<g ref="char:EOLhyphen"/>hending of them, they were took in St. <hi>Gileſes</hi> in the Feilds, <hi>Timothy Grady</hi> having the ſelf-ſame Coat on his back he had taken from the Gentleman, upon their Trials they ſtoutly denied it, but ſeeing the proof was plain, and poſitive, <hi>Timothy Grady</hi> con<g ref="char:EOLhyphen"/>feſſed that he was in the Robbery, but in vain endeavoured to excuſe the other, ſo that they both being found Guilty, received the Sentance of Death, after which being con<g ref="char:EOLhyphen"/>veyed to <hi>Newgate</hi> they ſpent their time in preparation for their Eternity, giving great attention unto Godly Exhortations, and ſo continued to the Admiration of many that came to viſit them, during the reſpit allowed for preparation.</p>
+            <p>
+               <hi>John Braford</hi> was Arraigned, found Guilty, and Condemned, for a notorious Burgla<g ref="char:EOLhyphen"/>ry breaking open a Widdow womans Houſe near <hi>Tatnam Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> and binding all her Fa<g ref="char:EOLhyphen"/>mily; ranſacked the Houſe, taking thence Goods to the Vallue of nine or ten pounds, and afterwards being taken by Captain <hi>Richardſons</hi> Men was challenged in <hi>Newgate,</hi>
+               <pb n="3" facs="tcp:100188:2"/>this being Proved againſt him he received Sentance of Death, having been a notori<g ref="char:EOLhyphen"/>ous Offender, yet as it is commonly ſeen, when he ſee no hope for Life, he was very Penitent, bewailing his miſdeeds, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Wllliam Carter</hi> was Arraigned, and upon full proof convicted of Fellony and Burglary, for breaking open the houſe of one <hi>How,</hi> of <hi>EIſham</hi> in <hi>Kent,</hi> and taking thence, two Flitches of Bacon, Hoods, Scarfs, Stockings, and other Clothes, to a conſiderable vallue; he and his Accomplices binding the Man of the Houſe, and the reſt of the Family and ſo departed with their Booty, but going to take water at <hi>Re<g ref="char:EOLhyphen"/>deriff,</hi> they were ſuſpected by ſome Watermen, and no ſooner had they croſſed the water, but they perceiving themſelves purſued, divided and fled, ſo that only <hi>Carter</hi> was taken, who had one pair of the Stockings on, and a ſtick in his hand, which he had taken out of the Chamber, with ſeveral other things, of which Fellony and Burglary being Convicted, he received Sentance of Death. His Repentance was not ſo becoming, as to ſute with a Man in his much to be deplored Condition, yet when the time of his ſuffering drew near, he ſhewed much Contrition for his former evil Courſes.</p>
+            <p>
+               <hi>Sarah Good</hi> was found Guilty of two Indictments, one for ſtealing a Silver Tan<g ref="char:EOLhyphen"/>kard, one ſilver Bole and a ſilver ſtanding Cup, from <hi>Samuel Dod</hi> a Vintner, without <hi>Biſhopſgate,</hi> the other for ſtealing one ſilver Tankard, and one Dram-Cup, from <hi>Ro<g ref="char:EOLhyphen"/>ger Saunders,</hi> in St. <hi>Botelphs Biſhapſgate,</hi> the Fellonies being proved ſhe received Sen<g ref="char:EOLhyphen"/>tance to dye according to the Law, the which was this day put in Execution, before which ſhe much bewailed her ſo untimely end, adviſing the Spectators to beware how they yielded to the temptations of the Enemy of Humane kind, leſt he brought rhem to Deſtruction.</p>
+            <p>
+               <hi>Dorothy Hall</hi> was found Guilty of two Fellonies and Burglaries committed by her and one <hi>Ann Green,</hi> upon the Houſe of one <hi>Mr-Sanders,</hi> and one Mr. <hi>Man,</hi> near <hi>Brainford,</hi> for ſtealing thence Linnen, Puter-Flaggons, Cocks and Hens, to a conſi<g ref="char:EOLhyphen"/>derable vallue, for which ſhe received Sentance to dye, and her Partner by reaſon of her ſimplicity, was allowed the favour of a tranſportation, ſhe had been an old Offendor, and therefore was not mvch concerned at the approach of her untimely Fate.</p>
+            <p>
+               <hi>Frances Lewis</hi> an old Offendor, who had long practiſed the Trade of <hi>Tankard-ſteal<g ref="char:EOLhyphen"/>ing,</hi> and had been very ſvcceſsful in her unlawful Enterprizes, but as the common Proverb notes- (the Pitcher goes not ſo oft to the Well, but it comes broaken home at laſt) ſo ſhe at length was taken in the very Fact, for coming into a certain Victual<g ref="char:EOLhyphen"/>ling Houſe near <hi>Crooked Lane,</hi> ſhe calling for a Tankard of Drink, pretended to ſtay for ſome Gentlemen that would immediately be there, but ſeeing the People buſie, and neglectful of their Charge, ſhe fairly bid her Hoſt Goodbuy not ſo much as asking what ſhe had to pay, but drinking ſome, and pouring out the reſt, ſhe carried off the empty Tankard vallued at five pounds to ſerve her proper Uſe, but being purſued and taken, was Committen, and it being on her Trial proved that ſhe was notorious for Offences in that kind, ſhe was Convicted and received Sentance, after which ſhe much bewails her diſmal Fate that had hurried her on to an untimely and an unavoided Death bedned with Tears, and ſerious remorſe, ſhe continued all the intervening time allowed her to make Peace with Heaven for the bleſſed welfare of her own im<g ref="char:EOLhyphen"/>mortal Soul.</p>
+            <p>
+               <hi>Elizabeth Plummer</hi> a notorious Shoplift, whoſe many Crimes has ſpread her Name throughout this great Metropolis, ſhe was Aaraigned and found Guilty for felloni<g ref="char:EOLhyphen"/>ouſly taking and bearing away 28 yards of Flowered Silk from one <hi>Edward Rigby</hi> a Mercer, near the <hi>Exchange,</hi> and delivering it to one of her Conſorts, who ſould it to one Mrs. <hi>Edwards</hi> the Fellony being plainly proved, ſhe was found Guilty, nor could ſhe her ſelf deny the ſame, ſo that being formerly pardoned yet would not take no warning, ſhe received the Judgment of the Court, after which the near approach of Death, ſtartled her amazed Conſcience, and ſhe ſeriouſly repented her of her many great and grievous Crimes, and ſo continued till the fatal moment of Mortality expired and puſht her off into a vaſt Eternity.</p>
+            <p>
+               <hi>Richard Hodgkons</hi> a Highway Man, and moſt notorious padder, was ſeverally indict<g ref="char:EOLhyphen"/>ed for two Robberies by him committed, the one was near <hi>Bow,</hi> the other near <hi>Hamp<g ref="char:EOLhyphen"/>ſted,</hi> upon two Gentlemen, taking from one of them forty ſhillings, or thereabouts, and from the other 14 ſhillings more or leſs, with ſeveral other their Goods and Chat<g ref="char:EOLhyphen"/>tels, to both which Indictments he pleaded Guilty, and for them was Condemned to dye, ſeeming but very little concerned at the near approach of his moſt great and dreadful Change, but certain Death that bears an awe upon the Spirits of the moſt re<g ref="char:EOLhyphen"/>ſolute
+<pb n="4" facs="tcp:100188:3"/>of Men, ſoon made his haughty Courage fail, and at the laſt put him ſo far in mind of immortality, as to draw Tears from his no doubt but Penitential) Eyes.</p>
+            <p>The <hi>Sunday</hi> before the Fxetution there was an excellent Sermon preached in the Chappel of <hi>Newgate,</hi> not only to the Condemned, but to a numerous Audito<g ref="char:EOLhyphen"/>ry that reſorted thither from ſeveral parts of this City. The Text of Scrip<g ref="char:EOLhyphen"/>ture, choſen for that purpoſe being the 14th Chapter of the Proverbs and the 27th Verſe, to which the Reverend Divine moſt effectually applied, that the fear of God was the only way to reſtrain all daring Sinners from their vi<g ref="char:EOLhyphen"/>cious enterpriſes, and that the Fear of God is the means and ground to raiſe ſal<g ref="char:EOLhyphen"/>vation on, and that God is pleaſed with thoſe that tremble at his Word, a God ſlow to Anger, of great Mercy, and willing to pardon all that with ſincere Re<g ref="char:EOLhyphen"/>pentance come unto him and lay hold on him by Faith. And that none ought to diſpair of ſaving Health, that caſt themſelves upon him, concluding with many ſacred and prevailing Exhortations, at which they all ſeemed much to lament their moſt woful State that they (muſt perhaps) unprovided, plunge into a vaſt Eternity: deſiring all that came to be Spectators of their Trajick Ends and Fi<g ref="char:EOLhyphen"/>nal Diſſolution as to this mortal State, to beware, leſt they gave way to vile Temptations, which like a Poiſoned Arrow fix a fatal Ruine in the Soul, and drive ſecure Offendors on till they unmindful of their ways are taken in the Snares that juſtice lays for thoſe that dare offend the Laws of Men, and ſo in<g ref="char:EOLhyphen"/>vite untimely Fate to ruine them paſt all recovery, and ſo they continued lifting up their hands to Heaven, and pouring forth their penitential Years, to expi<g ref="char:EOLhyphen"/>ate and waſh away thoſe Crimes which long Cuſtome and repeated Crimes had ſo inured them to.</p>
+            <p>
+               <hi>William Weſt</hi> was Arraigned for that he in the Pariſh of <hi>Stepney</hi> did Felloniouſly take and bear away thirteen Yards of <hi>Chamblet</hi> from one <hi>Robert Adkins,</hi> and he being an old Offendor and once burned in the hand before, was found Guilty of the Fellony, and after the dreadful Sentance had paſt upon him he became very Penitent, and ſo continued all the time that he was in <hi>Newgate.</hi>
+            </p>
+            <p>A little before the time of Execution, <hi>Robert Lewis, Sarah Good Elizabeth Plummer</hi> received his Majeſties moſt gracious Reprieve.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
